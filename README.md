@@ -44,23 +44,23 @@ Steps For Project :
 1. Installation of V.S.Code 
 2.Installation of Rapid Api Client Servers Extention in V.S.Code and Live Server 
 Extention
-3.Create HTML File i.e Index.html
-4. Add Bootstrap in Index.html file using Bootstrap Website. 
-5.Create JavaScript File i.e script.js 
-6.Put Api-Ninjas Free Weather API JavaScript Fetch Data in Our JavaScript script.js 
+3. Create HTML File i.e Index.html
+4.Add Bootstrap in Index.html file using Bootstrap Website. 
+5. Create JavaScript File i.e script.js 
+6. 6.Put Api-Ninjas Free Weather API JavaScript Fetch Data in Our JavaScript script.js 
 file using Rapid Api’s Online Website 
 7.Design Weather App’s Overall Website by Adding Headers , Body , Footer.
 
 ### Prerequisites
-1. Installation of V.S.Code 
-2.Installation of Rapid Api Client Servers Extention in V.S.Code and Live Server 
+1.V.S.Code 
+2.Rapid Api Client Servers Extention in V.S.Code and Live Server 
 Extention
 ```
 Give examples
 ```
 
 ### Installing
-A step by step series of examples that tell you how to get a development env running.
+1. Installation of V.S.Code 
 
 Say what the step will be
 
@@ -100,9 +100,9 @@ Add notes about how to use the system.
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [HTML5](https://www.mongodb.com/) - Language
-- [CSS3](https://expressjs.com/) 
-- [JavaScript](https://vuejs.org/) - Language
+- [HTML5](https://html.com/html5/) 
+- [CSS3](https://www.css3.info/) 
+- [JavaScript](https://www.javascript.com/)
 
 
 ## ✍️ Authors <a name = "authors"></a>
