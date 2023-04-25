@@ -5,7 +5,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Weather App</h3>
 
 <div align="center">
 
@@ -34,14 +34,27 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+This is my portfolio project which I demonstrates with my abilities in building a 
+completely responsive front-end project Website name as “Weather App” using 
+Rapid Api Client Live Server and its Online Websites And With My programming 
+Skills such as HTML5, CSS3, Bootstrap, JavaScript.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Steps For Project :
+1. Installation of V.S.Code 
+2.Installation of Rapid Api Client Servers Extention in V.S.Code and Live Server 
+Extention
+3.Create HTML File i.e Index.html
+4. Add Bootstrap in Index.html file using Bootstrap Website. 
+5.Create JavaScript File i.e script.js 
+6.Put Api-Ninjas Free Weather API JavaScript Fetch Data in Our JavaScript script.js 
+file using Rapid Api’s Online Website 
+7.Design Weather App’s Overall Website by Adding Headers , Body , Footer.
 
 ### Prerequisites
-What things you need to install the software and how to install them.
-
+1. Installation of V.S.Code 
+2.Installation of Rapid Api Client Servers Extention in V.S.Code and Live Server 
+Extention
 ```
 Give examples
 ```
