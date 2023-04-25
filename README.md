@@ -100,10 +100,10 @@ Add notes about how to use the system.
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [HTML5](https://www.mongodb.com/) - Language
+- [CSS3](https://expressjs.com/) 
+- [JavaScript](https://vuejs.org/) - Language
+
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
