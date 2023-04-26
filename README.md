@@ -63,6 +63,7 @@ Extention
 Download all the required software and Extention.
 ```
 
+
 ### Installing
 1. Installation of V.S.Code 
 
@@ -81,7 +82,13 @@ Right click --> click on Open Live server --> server is open in Chrome.
 Open V.S Code Download all extension and create new folder then create html,css,javascript file on it then run on using live server.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Using RapidAPI of Weather.
+Using RapidAPI website of Weather-by-api-ninjas.
+
+https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
+![Screenshot (6)](https://user-images.githubusercontent.com/110810311/234508878-39db9452-0f15-44d8-af19-59d7681c85e7.png)
+
+
+
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [HTML5](https://html.com/html5/) 
