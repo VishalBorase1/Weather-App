@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=600px height=300px src="https://user-images.githubusercontent.com/110810311/234503467-3ddc9e9f-f0c0-4737-8b6c-cf608512fd02.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Weather App</h3>
@@ -41,14 +41,20 @@ Skills such as HTML5, CSS3, Bootstrap, JavaScript.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 Steps For Project :
-1. Installation of V.S.Code 
+1.Installation of V.S.Code
+
 2.Installation of Rapid Api Client Servers Extention in V.S.Code and Live Server 
 Extention
-3. Create HTML File i.e Index.html
+
+3.Create HTML File i.e Index.html
+
 4.Add Bootstrap in Index.html file using Bootstrap Website. 
-5. Create JavaScript File i.e script.js 
+
+5.Create JavaScript File i.e script.js 
+
 6.Put Api-Ninjas Free Weather API JavaScript Fetch Data in Our JavaScript script.js 
 file using Rapid Api’s Online Website 
+
 7.Design Weather App’s Overall Website by Adding Headers , Body , Footer.
 
 ### Prerequisites
@@ -56,7 +62,7 @@ file using Rapid Api’s Online Website
 2.Rapid Api Client Servers Extention in V.S.Code and Live Server 
 Extention
 ```
-Give examples
+Download all the required software and Extention.
 ```
 
 ### Installing
@@ -65,43 +71,19 @@ Give examples
 Step 1 :
 Download VS code from here Link.
 Step 2 :
-Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). Then, run the file – it will only take a minute.
+Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe).
+Then, run the file – it will only take a minute.
 
-```
-![vs code](https://user-images.githubusercontent.com/110810311/234499607-5f5df1d3-e6d0-4ae0-a7e4-93c140cb9b9a.png)
-
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
+Right click --> click on Open Live server --> server is open in Chrome.
 
-### Break down into end to end tests
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+Open V.S Code Download all extension and create new folder then create html,css,javascript file on it then run on using live server.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+Using RapidAPI of Weather.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [HTML5](https://html.com/html5/) 
@@ -110,11 +92,16 @@ Add additional notes about how to deploy this on a live system.
 
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@VishalBorase1](https://github.com/VishalBorase1) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/VishalBorase1/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
 - Inspiration
+  #Skill-Lync Mentors.
+- Hat tip to anyone whose code was used
+  #CodeWithHarry
 - References
+  #CodeWithHarry
+
+
