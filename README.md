@@ -47,7 +47,7 @@ Extention
 3. Create HTML File i.e Index.html
 4.Add Bootstrap in Index.html file using Bootstrap Website. 
 5. Create JavaScript File i.e script.js 
-6. 6.Put Api-Ninjas Free Weather API JavaScript Fetch Data in Our JavaScript script.js 
+6.Put Api-Ninjas Free Weather API JavaScript Fetch Data in Our JavaScript script.js 
 file using Rapid Api’s Online Website 
 7.Design Weather App’s Overall Website by Adding Headers , Body , Footer.
 
@@ -62,10 +62,14 @@ Give examples
 ### Installing
 1. Installation of V.S.Code 
 
-Say what the step will be
+Step 1 :
+Download VS code from here Link.
+Step 2 :
+Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). Then, run the file – it will only take a minute.
 
 ```
-Give the example
+![vs code](https://user-images.githubusercontent.com/110810311/234499607-5f5df1d3-e6d0-4ae0-a7e4-93c140cb9b9a.png)
+
 ```
 
 And repeat
