@@ -56,37 +56,47 @@ file using Rapid Api’s Online Website
 7.Design Weather App’s Overall Website by Adding Headers , Body , Footer.
 
 ### Prerequisites
-1.V.S.Code 
+1.V.S.Code https://code.visualstudio.com/download
 2.Rapid Api Client Servers Extention in V.S.Code and Live Server 
-Extention
+Extention https://rapidapi.com/guides/replace-api-clients-with-vscode-using-the-rapidapi-extension
 ```
 Download all the required software and Extention.
 ```
 
-
 ### Installing
-1. Installation of V.S.Code 
-
-Step 1 :
-Download VS code from here Link.
-Step 2 :
-Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe).
+Installation Process of V.S.Code and Its Extentions
+Step 1 :Download VS code from here Link.
+Step 2 :Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe).
 Then, run the file – it will only take a minute.
+Step 3 : Installation of RapidApi extention from vs code Go to Extention search RapidAPI Client for Visual Studio Code then download it.
+step4 : Download live server for running the project.
+
 
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Right click --> click on Open Live server --> server is open in Chrome.
-
+Open V.S Code Download all extension and create new folder then create html,css,javascript file on it then run on using live server.
 
 ## 🎈 Usage <a name="usage"></a>
-Open V.S Code Download all extension and create new folder then create html,css,javascript file on it then run on using live server.
+Using RapidAPI client server and Weather by API-Ninjas You can Search Weather for any city eg.mumbai,bangalore etc.
+Output Data Of Weather : Ex. City : Mumbai 
+Weather For Mumbai :-
+ "cloud_pct": 40,
+ "temp": 29,
+ "feels_like": 30,
+ "humidity": 54,
+ "min_temp": 29,
+ "max_temp": 29,
+ "wind_speed": 4.63,
+ "wind_degrees": 260,
+ "sunrise": 1679274795,
+ "sunset": 1679318356
+
 
 ## 🚀 Deployment <a name = "deployment"></a>
 Using RapidAPI website of Weather-by-api-ninjas.
-
 https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
 ![Screenshot (6)](https://user-images.githubusercontent.com/110810311/234508878-39db9452-0f15-44d8-af19-59d7681c85e7.png)
-
 
 
 
@@ -97,15 +107,12 @@ https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
 
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@VishalBorase1](https://github.com/VishalBorase1) - Idea & Initial work
+- [@VishalBorase1](https://github.com/VishalBorase1) 
 
-See also the list of [contributors](https://github.com/VishalBorase1/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration
   #Skill-Lync Mentors.
-- Hat tip to anyone whose code was used
-  #CodeWithHarry
 - References
   #CodeWithHarry
 
