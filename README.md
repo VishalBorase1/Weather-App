@@ -32,7 +32,6 @@
 - [Acknowledgments](#acknowledgement)
 
 
-![Screenshot (6)](https://user-images.githubusercontent.com/110810311/235066954-10008349-7551-44bb-ae51-94e5a3c508e2.png)
 
 ## 🧐 About <a name = "about"></a>
 This is my portfolio project which I demonstrates with my abilities in building a 
