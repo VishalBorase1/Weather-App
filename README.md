@@ -32,12 +32,10 @@
 - [Acknowledgments](#acknowledgement)
 
 
-
 ## 🧐 About <a name = "about"></a>
-This is my portfolio project which I demonstrates with my abilities in building a 
-completely responsive front-end project Website name as “Weather App” using 
-Rapid Api Client Live Server and its Online Websites And With My programming 
-Skills such as HTML5, CSS3, Bootstrap, JavaScript.
+This is a front-end web development project that demonstrates my skills in HTML5, CSS3, Bootstrap, and JavaScript.
+The Weather App allows users to search for weather information for any location using the Rapid API service. 
+The project also utilizes Live Server to deploy the app for public use.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 Clone this repository or download the ZIP file
@@ -46,12 +44,21 @@ Enter a location in the search bar to view the weather information
 Alternatively, you can host the website on a web server or use a live server extension in your text editor or IDE to view the website locally.
 
 ### Prerequisites
-1.V.S.Code https://code.visualstudio.com/download
-2.Rapid Api Client Servers Extention in V.S.Code and Live Server 
-Extention https://rapidapi.com/guides/replace-api-clients-with-vscode-using-the-rapidapi-extension
+A text editor or integrated development environment (IDE) such as Visual Studio Code or Sublime Text
+A web browser such as Google Chrome, Mozilla Firefox, or Microsoft Edge An active internet connection.
+Using RapidAPI website of Weather-by-api-ninjas.
+https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
+
+### Credits
+Rapid API for providing the weather information API used in the project.
+Live Server for making it easy to deploy the project for public use.
+
 ```
 Download all the required software and Extention.
 ```
+1.V.S.Code https://code.visualstudio.com/download
+2.Rapid Api Client Servers Extention in V.S.Code and Live Server 
+Extention https://rapidapi.com/guides/replace-api-clients-with-vscode-using-the-rapidapi-extension
 
 ### Installing
 Installation Process of V.S.Code and Its Extentions
@@ -59,8 +66,8 @@ Step 1 :Download VS code from here Link.
 Step 2 :Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe).
 Then, run the file – it will only take a minute.
 Step 3 : Installation of RapidApi extention from vs code Go to Extention search RapidAPI Client for Visual Studio Code then download it.
+Download the RapidAPI Extension now: https://marketplace.visualstudio.com/...
 step4 : Download live server for running the project.
-
 
 
 ## 🔧 Running the tests <a name = "tests"></a>
@@ -68,32 +75,21 @@ Right click --> click on Open Live server --> server is open in Chrome.
 Open V.S Code Download all extension and create new folder then create html,css,javascript file on it then run on using live server.
 
 ## 🎈 Usage <a name="usage"></a>
-Using RapidAPI client server and Weather by API-Ninjas You can Search Weather for any city eg.mumbai,bangalore etc.
-Output Data Of Weather : Ex. City : Mumbai 
-Weather For Mumbai :-
- "cloud_pct": 40,
- "temp": 29,
- "feels_like": 30,
- "humidity": 54,
- "min_temp": 29,
- "max_temp": 29,
- "wind_speed": 4.63,
- "wind_degrees": 260,
- "sunrise": 1679274795,
- "sunset": 1679318356
+The main usage of the Weather App project is to provide users with quick and easy access to current and forecasted weather information for a specific location. Users can use the app to plan their daily activities based on the current weather conditions and prepare for the weather in the upcoming days. The app can be particularly useful for travelers who want to check the weather forecast for their destination before they start their trip. The app can also be used by people who work outdoors or have outdoor hobbies, such as hikers, bikers, and campers, to plan their activities around the weather. Overall, the Weather App project provides a convenient and user-friendly way to access important weather information in a visually appealing format.
 
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Using RapidAPI website of Weather-by-api-ninjas.
-https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
 
-
+First Extract the file from GitHub and import it into Visual Studio Code Or any other Software and you can run/deploy the program.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [RapidApi](https://rapidapi.com/apininjas/api/weather-by-api-ninjas/) 
 - [HTML5](https://html.com/html5/) 
 - [CSS3](https://www.css3.info/) 
+- [BootStrap](https://getbootstrap.com/) 
 - [JavaScript](https://www.javascript.com/)
-
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@VishalBorase1](https://github.com/VishalBorase1) -FSD
@@ -101,8 +97,8 @@ https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration
-  #Skill-Lync Mentors.
+   Skill-Lync.
 - References
-  #CodeWithHarry
+  CodeWithHarry Youtube Channel- https://www.youtube.com/watch?v=pFvWwFua6mw
 
 
