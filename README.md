@@ -79,6 +79,11 @@ Open V.S Code then run on using live server Extention.
 ## 🎈 Usage <a name="usage"></a>
 The main usage of the Weather App project is to provide users with quick and easy access to current and forecasted weather information for a specific location. Users can use the app to plan their daily activities based on the current weather conditions and prepare for the weather in the upcoming days. The app can be particularly useful for travelers who want to check the weather forecast for their destination before they start their trip. The app can also be used by people who work outdoors or have outdoor hobbies, such as hikers, bikers, and campers, to plan their activities around the weather. Overall, the Weather App project provides a convenient and user-friendly way to access important weather information in a visually appealing format.
 
+### Features
+Search for weather information for any location
+Display current temperature, weather condition, and icon for the searched location
+Toggle between Celsius and Fahrenheit temperature units
+Responsive design for optimal viewing on mobile and desktop devices
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
