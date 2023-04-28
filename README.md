@@ -38,22 +38,10 @@ Rapid Api Client Live Server and its Online Websites And With My programming
 Skills such as HTML5, CSS3, Bootstrap, JavaScript.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-Steps For Project :
-1.Installation of V.S.Code
-
-2.Installation of Rapid Api Client Servers Extention in V.S.Code and Live Server 
-Extention
-
-3.Create HTML File i.e Index.html
-
-4.Add Bootstrap in Index.html file using Bootstrap Website. 
-
-5.Create JavaScript File i.e script.js 
-
-6.Put Api-Ninjas Free Weather API JavaScript Fetch Data in Our JavaScript script.js 
-file using Rapid Api’s Online Website 
-
-7.Design Weather App’s Overall Website by Adding Headers , Body , Footer.
+Clone this repository or download the ZIP file
+Open the index.html file in your web browser to view the website
+Enter a location in the search bar to view the weather information
+Alternatively, you can host the website on a web server or use a live server extension in your text editor or IDE to view the website locally.
 
 ### Prerequisites
 1.V.S.Code https://code.visualstudio.com/download
@@ -106,7 +94,7 @@ https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
 
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@VishalBorase1](https://github.com/VishalBorase1) 
+- [@VishalBorase1](https://github.com/VishalBorase1) -FSD
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
