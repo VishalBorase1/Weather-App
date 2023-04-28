@@ -96,7 +96,6 @@ Weather For Mumbai :-
 ## 🚀 Deployment <a name = "deployment"></a>
 Using RapidAPI website of Weather-by-api-ninjas.
 https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
-![Screenshot (6)](https://user-images.githubusercontent.com/110810311/234508878-39db9452-0f15-44d8-af19-59d7681c85e7.png)
 
 
 
