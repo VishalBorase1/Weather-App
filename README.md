@@ -49,16 +49,17 @@ A web browser such as Google Chrome, Mozilla Firefox, or Microsoft Edge An activ
 Using RapidAPI website of Weather-by-api-ninjas.
 https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
 
-### Credits
-Rapid API for providing the weather information API used in the project.
-Live Server for making it easy to deploy the project for public use.
-
 ```
 Download all the required software and Extention.
 ```
 1.V.S.Code https://code.visualstudio.com/download
 2.Rapid Api Client Servers Extention in V.S.Code and Live Server 
 Extention https://rapidapi.com/guides/replace-api-clients-with-vscode-using-the-rapidapi-extension
+
+### Credits
+Rapid API for providing the weather information API used in the project.
+Live Server for making it easy to deploy the project for public use.
+
 
 ### Installing
 Installation Process of V.S.Code and Its Extentions
@@ -72,7 +73,7 @@ step4 : Download live server for running the project.
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Right click --> click on Open Live server --> server is open in Chrome.
-Open V.S Code Download all extension and create new folder then create html,css,javascript file on it then run on using live server.
+Open V.S Code then run on using live server Extention.
 
 ## 🎈 Usage <a name="usage"></a>
 The main usage of the Weather App project is to provide users with quick and easy access to current and forecasted weather information for a specific location. Users can use the app to plan their daily activities based on the current weather conditions and prepare for the weather in the upcoming days. The app can be particularly useful for travelers who want to check the weather forecast for their destination before they start their trip. The app can also be used by people who work outdoors or have outdoor hobbies, such as hikers, bikers, and campers, to plan their activities around the weather. Overall, the Weather App project provides a convenient and user-friendly way to access important weather information in a visually appealing format.
