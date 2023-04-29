@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=600px height=300px src="https://user-images.githubusercontent.com/110810311/234503467-3ddc9e9f-f0c0-4737-8b6c-cf608512fd02.png" alt="Project logo"></a>
-</p>
+
+   <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 
 <h3 align="center">Weather App</h3>
 
@@ -35,6 +35,9 @@
 This is a front-end web development project that demonstrates my skills in HTML5, CSS3, Bootstrap, and JavaScript.
 The Weather App allows users to search for weather information for any location using the Rapid API service. 
 The project also utilizes Live Server to deploy the app for public use.
+
+<img width=600px height=300px src="https://user-images.githubusercontent.com/110810311/234503467-3ddc9e9f-f0c0-4737-8b6c-cf608512fd02.png" alt="Project logo"></a>
+</p>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 Clone this repository or download the ZIP file
