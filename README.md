@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="" rel="noopener">
-
-   <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+</p>
 
 <h3 align="center">Weather App</h3>
 
@@ -36,8 +36,7 @@ This is a front-end web development project that demonstrates my skills in HTML5
 The Weather App allows users to search for weather information for any location using the Rapid API service. 
 The project also utilizes Live Server to deploy the app for public use.
 
-<img width=600px height=300px src="https://user-images.githubusercontent.com/110810311/234503467-3ddc9e9f-f0c0-4737-8b6c-cf608512fd02.png" alt="Project logo"></a>
-</p>
+<img width=600px height=300px src="https://user-images.githubusercontent.com/110810311/234503467-3ddc9e9f-f0c0-4737-8b6c-cf608512fd02.png" alt="Project img">
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 Clone this repository or download the ZIP file
@@ -69,6 +68,8 @@ Step 1 :Download VS code from here Link.
 Step 2 :Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe).
 Then, run the file – it will only take a minute.
 Step 3 : Installation of RapidApi extention from vs code Go to Extention search RapidAPI Client for Visual Studio Code then download it.
+<img width=600px height=300px src="https://user-images.githubusercontent.com/110810311/235284241-83d626d1-1d8d-4491-b281-1f421e2c8dd7.png" alt="Project img">
+
 Download the RapidAPI Extension now: https://marketplace.visualstudio.com/...
 step4 : Download live server for running the project.
 
