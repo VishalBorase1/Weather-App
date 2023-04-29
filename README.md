@@ -36,7 +36,9 @@ This is a front-end web development project that demonstrates my skills in HTML5
 The Weather App allows users to search for weather information for any location using the Rapid API service. 
 The project also utilizes Live Server to deploy the app for public use.
 
-<img width=600px height=300px src="https://user-images.githubusercontent.com/110810311/234503467-3ddc9e9f-f0c0-4737-8b6c-cf608512fd02.png" alt="Project img">
+
+
+![Screenshot (172)](https://user-images.githubusercontent.com/110810311/235284988-760ad954-c4e0-4992-9c21-9770d2d554e5.png)
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 Clone this repository or download the ZIP file
@@ -49,6 +51,8 @@ A text editor or integrated development environment (IDE) such as Visual Studio 
 A web browser such as Google Chrome, Mozilla Firefox, or Microsoft Edge An active internet connection.
 Using RapidAPI website of Weather-by-api-ninjas.
 https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
+
+<img width=600px height=300px src="https://user-images.githubusercontent.com/110810311/235284241-83d626d1-1d8d-4491-b281-1f421e2c8dd7.png" alt="Project img">
 
 ```
 Download all the required software and Extention.
@@ -68,11 +72,10 @@ Step 1 :Download VS code from here Link.
 Step 2 :Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe).
 Then, run the file – it will only take a minute.
 Step 3 : Installation of RapidApi extention from vs code Go to Extention search RapidAPI Client for Visual Studio Code then download it.
-<img width=600px height=300px src="https://user-images.githubusercontent.com/110810311/235284241-83d626d1-1d8d-4491-b281-1f421e2c8dd7.png" alt="Project img">
-
 Download the RapidAPI Extension now: https://marketplace.visualstudio.com/...
-step4 : Download live server for running the project.
+<img width=600px height=300px src="https://user-images.githubusercontent.com/110810311/235284642-ca6e1adb-dfac-42a5-8f2f-b652faa8a626.png" alt="Project img">
 
+step4 : Download live server for running the project.
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Right click --> click on Open Live server --> server is open in Chrome.
@@ -86,6 +89,9 @@ Search for weather information for any location
 Display current temperature, weather condition, and icon for the searched location
 Toggle between Celsius and Fahrenheit temperature units
 Responsive design for optimal viewing on mobile and desktop devices
+
+![Screenshot (171)](https://user-images.githubusercontent.com/110810311/235284897-6c5883f0-60ab-44cb-b9f4-2e593d178fad.png)
+
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
