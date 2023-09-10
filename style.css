@@ -1,0 +1,39 @@
+.body{
+  background: rgba(76, 187, 224, 0.418);
+}
+
+#table-responsive {
+  border: 1px solid;
+  background-color: rgba(13, 110, 253, .25);
+}
+
+#table1 {
+  border: 1px;
+}
+
+#title2 {
+  font-weight: bold;
+}
+
+.rr3bxd {
+  cursor: pointer;
+  margin-bottom: 40px;
+  padding: 0;
+  padding-bottom: 1px;
+}
+
+.R3Y3ec {
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.wob_dfc {
+  padding-top: 7px;
+  white-space: nowrap;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
