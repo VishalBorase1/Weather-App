@@ -5,6 +5,7 @@
 #table-responsive {
   border: 1px solid;
   background-color: rgba(13, 110, 253, .25);
+  overflow: hidden;
 }
 
 #table1 {
