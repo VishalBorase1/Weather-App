@@ -30,10 +30,9 @@
 
 
 ## 🧐 About <a name = "about"></a>
-This is a front-end web development project that demonstrates my skills in HTML5, CSS3, Bootstrap, and JavaScript.
+This is a front-end web development project that is demonstrates my skills in HTML5, CSS3, Bootstrap, and JavaScript.
 The Weather App allows users to search for weather information for any location using the Rapid API service. 
 The project also utilizes Live Server to deploy the app for public use.
-
 
 
 ![Screenshot (172)](https://user-images.githubusercontent.com/110810311/235284988-760ad954-c4e0-4992-9c21-9770d2d554e5.png)
@@ -93,25 +92,28 @@ Responsive design for optimal viewing on mobile and desktop devices
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
-First Extract the file from GitHub and import it into Visual Studio Code Or any other Software and you can run/deploy the program.
+
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-
+  Code Editor :
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [RapidApi](https://rapidapi.com/apininjas/api/weather-by-api-ninjas/) 
+  API : 
+- [RapidApi](https://rapidapi.com/apininjas/api/weather-by-api-ninjas/)
+  Programming :
 - [HTML5](https://html.com/html5/) 
 - [CSS3](https://www.css3.info/) 
 - [BootStrap](https://getbootstrap.com/) 
 - [JavaScript](https://www.javascript.com/)
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@VishalBorase1](https://github.com/VishalBorase1) -FSD
+- Vishal borase - Full Stack Developer
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Inspiration
+- Inspiration by
    Skill-Lync.
-- References
-  CodeWithHarry Youtube Channel- https://www.youtube.com/watch?v=pFvWwFua6mw
+- Reference :
+   Google Search,
+  Youtube Channel- https://www.youtube.com/watch?v=pFvWwFua6mw
 
 
