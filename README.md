@@ -22,8 +22,9 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
+- [Running the tests](#tests)
 - [Usage](#usage)
+- [Deployment](#deployment)
 - [Built Using](#built_using)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
@@ -35,27 +36,16 @@ The Weather App allows users to search for weather information for any location 
 The project also utilizes Live Server to deploy the app for public use.
 
 
-![Screenshot (172)](https://user-images.githubusercontent.com/110810311/235284988-760ad954-c4e0-4992-9c21-9770d2d554e5.png)
-
 ## 🏁 Getting Started <a name = "getting_started"></a>
-Clone this repository or download the ZIP file
-Open the index.html file in your web browser to view the website
-Enter a location in the search bar to view the weather information
-Alternatively, you can host the website on a web server or use a live server extension in your text editor or IDE to view the website locally.
+firstly, download the required software tool i install vs code then create a folder give name as Weather app Open it on vs code then create all files on vs code html,css and javascript also install rapid api extension.
 
 ### Prerequisites
 A text editor or integrated development environment (IDE) such as Visual Studio Code or Sublime Text
 A web browser such as Google Chrome, Mozilla Firefox, or Microsoft Edge An active internet connection.
 Using RapidAPI website of Weather-by-api-ninjas.
 https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
-
-<img width=600px height=300px src="https://user-images.githubusercontent.com/110810311/235284241-83d626d1-1d8d-4491-b281-1f421e2c8dd7.png" alt="Project img">
-
-```
-Download all the required software and Extention.
-```
-1.V.S.Code https://code.visualstudio.com/download
-2.Rapid Api Client Servers Extention in V.S.Code and Live Server 
+V.S.Code https://code.visualstudio.com/download
+Rapid Api Client Servers Extention in V.S.Code and Live Server 
 Extention https://rapidapi.com/guides/replace-api-clients-with-vscode-using-the-rapidapi-extension
 
 ### Credits
@@ -79,7 +69,8 @@ Right click --> click on Open Live server --> server is open in Chrome.
 Open V.S Code then run on using live server Extention.
 
 ## 🎈 Usage <a name="usage"></a>
-The main usage of the Weather App project is to provide users with quick and easy access to current and forecasted weather information for a specific location. Users can use the app to plan their daily activities based on the current weather conditions and prepare for the weather in the upcoming days. The app can be particularly useful for travelers who want to check the weather forecast for their destination before they start their trip. The app can also be used by people who work outdoors or have outdoor hobbies, such as hikers, bikers, and campers, to plan their activities around the weather. Overall, the Weather App project provides a convenient and user-friendly way to access important weather information in a visually appealing format.
+The main usage of the Weather App project is to provide users with quick and easy access to current and forecasted weather information for a specific location. 
+Users can use the app to plan their daily activities based on the current weather conditions and prepare for the weather in the upcoming days. The app can be particularly useful for travelers who want to check the weather forecast for their destination before they start their trip. The app can also be used by people who work outdoors or have outdoor hobbies, such as hikers, bikers, and campers, to plan their activities around the weather. Overall, the Weather App project provides a convenient and user-friendly way to access important weather information in a visually appealing format.
 
 ### Features
 Search for weather information for any location
@@ -87,19 +78,15 @@ Display current temperature, weather condition, and icon for the searched locati
 Toggle between Celsius and Fahrenheit temperature units
 Responsive design for optimal viewing on mobile and desktop devices
 
-![Screenshot (171)](https://user-images.githubusercontent.com/110810311/235284897-6c5883f0-60ab-44cb-b9f4-2e593d178fad.png)
-
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
+Use the REST API to create and delete deploy keys, deployments, and deployment environments.
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-  Code Editor :
 - [Visual Studio Code](https://code.visualstudio.com/)
-  API : 
 - [RapidApi](https://rapidapi.com/apininjas/api/weather-by-api-ninjas/)
-  Programming :
 - [HTML5](https://html.com/html5/) 
 - [CSS3](https://www.css3.info/) 
 - [BootStrap](https://getbootstrap.com/) 
@@ -107,7 +94,6 @@ Responsive design for optimal viewing on mobile and desktop devices
 
 ## ✍️ Authors <a name = "authors"></a>
 - Vishal borase - Full Stack Developer
-
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration by
